@@ -9,4 +9,6 @@ Share your advice with me！
 # Research Papers
 
 ## Survey Papers
+[A Survey on Multimodal Information Retrieval Approach](https://ieeexplore.ieee.org/abstract/document/9079266), 2020 International Conference on Smart Technology and Applications (ICoSTA)
 
+## Representation Learning
