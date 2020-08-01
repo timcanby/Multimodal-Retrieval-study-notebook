@@ -6,7 +6,7 @@ Share your advice with me！
 ## Table of Contents
 * [Research Papers](#research-papers)
 * [Video](#video)
-* [Video](#representation-learning)
+* [Book](#book)
 # Research Papers
 
 ## Survey Papers
