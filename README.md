@@ -4,8 +4,9 @@ By[Kangying li](https://www.dl.is.ritsumei.ac.jp/memberProfile/LIkangying/index.
 Share your advice with me！
 
 ## Table of Contents
-* [Survey Papers](#survey-papers)
-* [Representation Learning](#representation-learning)
+* [Research Papers](#research-papers)
+* [Video](#video)
+* [Video](#representation-learning)
 # Research Papers
 
 ## Survey Papers
