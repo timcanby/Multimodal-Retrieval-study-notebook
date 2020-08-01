@@ -9,12 +9,15 @@ Share your advice with me！
 * [Book](#book)
 # Research Papers
 
-## Survey Papers
+## Survey Papers &Review
+[Multimodal Intelligence: Representation Learning, Information Fusion, and Applications](https://ieeexplore.ieee.org/document/9068414), IEEE Journal of Selected Topics in Signal Processing ( Volume: 14 , Issue: 3 , March 2020 )
 [A Survey on Multimodal Information Retrieval Approach](https://ieeexplore.ieee.org/abstract/document/9079266), 2020 International Conference on Smart Technology and Applications (ICoSTA)
+[A Review of Hashing Methods for Multimodal Retrieval](https://ieeexplore.ieee.org/document/8963910), IEEE Access
 
 ## Representation Learning
 
 ## Multimodal Retrieval Model
 
-[A novel multimodal retrieval model based on ELM](https://www.sciencedirect.com/science/article/pii/S0925231217314029), Hierarchical Extreme Learning Machines
+[A novel multimodal retrieval model based on ELM](https://www.sciencedirect.com/science/article/pii/S0925231217314029), Neurocomputing, vol. 277, pp. 65-77, 2018.
+
 
