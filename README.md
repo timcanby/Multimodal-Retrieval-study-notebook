@@ -10,9 +10,11 @@ Share your advice with me！
 # Research Papers
 
 ## Survey Papers &Review
-[Multimodal Intelligence: Representation Learning, Information Fusion, and Applications](https://ieeexplore.ieee.org/document/9068414), IEEE Journal of Selected Topics in Signal Processing ( Volume: 14 , Issue: 3 , March 2020 )
-[A Survey on Multimodal Information Retrieval Approach](https://ieeexplore.ieee.org/abstract/document/9079266), 2020 International Conference on Smart Technology and Applications (ICoSTA)
-[A Review of Hashing Methods for Multimodal Retrieval](https://ieeexplore.ieee.org/document/8963910), IEEE Access
+[Multimodal Intelligence: Representation Learning, Information Fusion, and Applications](https://ieeexplore.ieee.org/document/9068414), IEEE Journal of Selected Topics in Signal Processing ( Volume: 14 , Issue: 3 , March 2020 ).
+
+[A Survey on Multimodal Information Retrieval Approach](https://ieeexplore.ieee.org/abstract/document/9079266), 2020 International Conference on Smart Technology and Applications (ICoSTA).
+
+[A Review of Hashing Methods for Multimodal Retrieval](https://ieeexplore.ieee.org/document/8963910), IEEE Access.
 
 ## Representation Learning
 
