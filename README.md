@@ -21,7 +21,7 @@ Share your advice with me！
 ## Multimodal Retrieval Model
 
 [A novel multimodal retrieval model based on ELM](https://www.sciencedirect.com/science/article/pii/S0925231217314029), Neurocomputing, vol. 277, pp. 65-77, 2018.
-# Videos
+# Video
 [Universal Weighting Metric Learning for Cross-Modal Matching](https://www.youtube.com/watch?v=835Cjvca6F8), CVPR2020
 
 [IMRAM: Iterative Matching With Recurrent Attention Memory for Cross-Modal Image-Text Retrieval](https://www.youtube.com/watch?v=Fq7NRq1OQEo), CVPR2020
